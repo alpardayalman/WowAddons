@@ -1,0 +1,6 @@
+## Interface: 80205
+## Title: testAddon
+## Notes: Nothing to be done.
+## Version: 1.0
+## DefaultState: enabled
+testAddon.lua
